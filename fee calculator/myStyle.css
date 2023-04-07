@@ -1,0 +1,23 @@
+body {
+    background: rgb(8, 144. 110);
+    font-family: sans-serif;
+}
+#feecal {
+    width: 345px;
+    height: 420px;
+    background-color: white;
+    color: #fff;
+    padding: 10px;
+    margin: 100px auto;
+}
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color: rgb(9, 95, 172);
+    margin-bottom: 35px;
+}
+h2 {
+    text-align: center;
+    color: rgb(6, 111, 139);
+    margin-top: 35px;
+}
